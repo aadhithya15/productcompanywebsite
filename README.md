@@ -65,7 +65,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 ### about.html
 ```html
 <!DOCTYPE html>
